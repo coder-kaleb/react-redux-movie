@@ -1,0 +1,1 @@
+{"version":3,"sourceRoot":"","sources":["../components/MovieCard/moviecard.scss","../common/colors.scss"],"names":[],"mappings":"AACA;EACE,YCDgB;EDEhB;EACA;EACA;EACA;EACA;;AAEA;EACE;EACA;;;AAIJ;EACE;;AAEA;EACE;EACA;;;AAIJ;EACE;;;AAEF;EACE,OC1Ba;;AD2Bb;EACE;EACA;EACA","file":"moviecard.css"}
